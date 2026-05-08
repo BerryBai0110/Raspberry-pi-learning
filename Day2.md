@@ -1,4 +1,4 @@
-# Day 1 - Raspberry Pi Setup & LED Control
+# Day 2 - Raspberry Pi Setup & LED Control （07/05/2026）
 
 ## What I did
 
